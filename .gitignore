@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/blaze/.vs/blaze
+/blaze/blaze/obj
+/blaze/blaze/appsettings.json
